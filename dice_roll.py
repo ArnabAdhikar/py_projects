@@ -2,7 +2,7 @@ import random
 import tkinter
 root = tkinter.Tk()
 root.geometry('600x600')
-root.title('ProjectGurukul Roll Dice')
+root.title('Arnab Adhikarys Dice Roller Simulator😊')
 
 label = tkinter.Label(root, text='', font=('Helvetica', 260))
 
